@@ -1,10 +1,10 @@
 # testing_automatizado_playwright
 Primeras pruebas de automatizaciones utilizando playwright y el controlador de versiones git. 
 
-En este proyecto encontraran plazmado los aprendizajes adquiridos sobre testing automatizado utilizando playwright para testear 
+En este proyecto encontraran plasmado los aprendizajes adquiridos sobre testing automatizado utilizando playwright para testear 
 la pagina: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
-La carpeta "OrangeHMR-test" será la protagonista de este proyecto. Allí encontraran la organizacion y automatizacion personal realizada, la misma se fracciona en 5 folders internos:
+La carpeta "OrangeHMR-test" será la protagonista de este proyecto. Allí encontraran la organizacion y automatizacion personal realizada. La misma se fracciona en 5 folders internos:
 
 -"Datos": contiene documentos.json con datos de usuarios ficticios
 
