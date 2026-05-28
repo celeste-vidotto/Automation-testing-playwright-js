@@ -23,4 +23,4 @@ Por otro lado, en "Repositorio-Programon/branch-3" se encuentran todos los archi
 
 El archivo ".vscode" incluye las extensiones utilizadas en el proyecto. 
 
-Por su parte ".github/workflows" es un documento de ejemplo y modelo de un pipeline. 
+Por su parte ".github/workflows" es un documento de configuracion de un pipeline para ejecutar en github actions las pruebas automatizadas. 
